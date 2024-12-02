@@ -17,8 +17,8 @@ The project is currently deployed on Vercel.
 
 ## Sign-up Page
 ### Unregistered users can sign-up on this page, just by adding some basic info
-- **Note 1**: Currently the web app is setup for users in USA, so to test, add USA specific values for fields like city, state, postal code, ssn, or else use these values: City: "New York", State: "NY", Postal Code: "11001", SSN: "1234"\
-- **Note 2**: Setting up a bank account using Plaid, will require you to enter credentials at some point like username and password, which are username: "user_good", password: "pass_good", and for other pages like otp code, just hit submit\
+- **Note 1**: Currently the web app is setup for users in USA, so to test, add USA specific values for fields like city, state, postal code, ssn, or else use these values: City: "New York", State: "NY", Postal Code: "11001", SSN: "1234"
+- **Note 2**: Setting up a bank account using Plaid, will require you to enter credentials at some point like username and password, which are username: "user_good", password: "pass_good", and for other pages like otp code, just hit submit
 - **Note 3**: Select any bank you want to add, then select any of the given bank account options that you want to add
 ### 
 ![Screenshot 2024-12-02 145055](https://github.com/user-attachments/assets/4643d454-8bbe-4778-a279-ab888bb85b2a)
@@ -36,7 +36,7 @@ The project is currently deployed on Vercel.
 
 ## Transaction History Page
 ### Users can view their account transaction history on this page
-- **Note 1**: Whichever account is selected on the home page (if multiple), that account's transaction history will be displayed in this page\
+- **Note 1**: Whichever account is selected on the home page (if multiple), that account's transaction history will be displayed in this page
 - **Note 2**: Currently this page does not have the option of selecting different accounts, because that would simply mean that one of the section of the homepage is expanded here, which is not the motive of this page. Maybe the future update will have a solution to this.
 ###
 ![Screenshot 2024-12-02 145502](https://github.com/user-attachments/assets/9237195b-2124-4d5e-9009-fb50d7fcc319)
